@@ -9,11 +9,11 @@
 Nominee.destroy_all
 
 n1 = Nominee.create(
-        Poster: "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SX300.jpg",
-        Title: "Pokémon Detective Pikachu",
+        Poster: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        Title: "Inception",
         Type: "movie",
-        Year: "2019",
-        imdbID: "tt5884052")
+        Year: "2010",
+        imdbID: "tt1375666")
 n2 = Nominee.create(
         Poster: "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
         Title: "Tenet",
